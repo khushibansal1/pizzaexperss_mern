@@ -1,0 +1,7 @@
+secret key :-   sk_test_51NJdmvSCPCoB7v42K839tmpbtvlEfVoofUJEp9pv3W46zYhrKX8DgFH32DTPA4DFSTtYPXinqOiAUYOCFhub0pls00Bf3bFYjD
+
+
+
+publish 
+
+pk_test_51NJdmvSCPCoB7v42lZJQ9a7tgJtAk62yaGOaRpMmEN4FvrQfQZdagnkcnt78PuUhQiTbwb1tL1pBQ5yAB7Lq6dOR00e1wpT8Ev
